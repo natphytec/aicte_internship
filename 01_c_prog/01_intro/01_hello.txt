@@ -1,0 +1,20 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to print greetings to the user on console
+
+Src File: hello.c 
+Out File: hello
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./hello
+Greetings from RuggedBOARD team
+rb-dev$
+-------------------------------
+
+***********************************************************************************/
