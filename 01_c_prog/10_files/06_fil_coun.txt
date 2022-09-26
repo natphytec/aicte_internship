@@ -1,0 +1,31 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to count number of words and characters in a file.
+
+Src File: fil_coun.c 
+Out File: fil_coun
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./fil_coun
+
+Count the number of words and characters in a file :
+---------------------------------------------------------
+ Input the filename to be opened : test.txt
+ The content of the file test.txt are : 
+hello guys
+hows your course going on
+
+ The number of words in the  file test.txt are : 7
+ The number of characters in the  file test.txt are : 30
+
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

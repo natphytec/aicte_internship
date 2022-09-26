@@ -1,0 +1,64 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to Store Information of 5 Students Using Structure.
+
+Src File: str_info.c 
+Out File: str_info
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_info
+
+Enter information of students:
+
+For roll number1,
+Enter first name: Rajesh
+Enter marks: 75
+
+For roll number2,
+Enter first name: Lokesh
+Enter marks: 92
+
+For roll number3,
+Enter first name: Ajay
+Enter marks: 59
+
+For roll number4,
+Enter first name: Rahul
+Enter marks: 65
+
+For roll number5,
+Enter first name: Rohit
+Enter marks: 83
+Displaying Information:
+
+
+Roll number: 1
+First name: Rajesh
+Marks: 75.0
+
+Roll number: 2
+First name: Lokesh
+Marks: 92.0
+
+Roll number: 3
+First name: Ajay
+Marks: 59.0
+
+Roll number: 4
+First name: Rahul
+Marks: 65.0
+
+Roll number: 5
+First name: Rohit
+Marks: 83.0
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

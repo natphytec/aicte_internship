@@ -1,0 +1,22 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to print value using logical operator 
+
+Src File: LogicOperator.c 
+Out File: LogicOperator
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./LogicOperator (Let i=5,j=5,k=10)
+i is equal to j or k greater than j is  1 
+i is equal to j or k less than j is 1 
+i not equal to j or k less than j is 0
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

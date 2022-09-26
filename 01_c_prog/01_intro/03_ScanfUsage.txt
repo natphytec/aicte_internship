@@ -1,0 +1,26 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program using scanf get Name,Rollnumber,CGPA from user input and print it
+
+Src File: ScanfUsage.c 
+Out File: ScanfUasge
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./ScanfUsage
+Enter Your Name  : Natarajan
+Enter Your RollNo: PI112
+Enter Your CGPA  : 8.2
+
+Name  :Natarajan
+RollNo:PI112
+CGPA  :8.2
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

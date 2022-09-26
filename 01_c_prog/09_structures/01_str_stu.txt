@@ -1,0 +1,28 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to store information of student using structure
+
+Src File: str_stu.c 
+Out File: str_stu
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_stu
+
+Enter information:
+Enter name: Lakshit
+Enter roll number: 15
+Enter marks: 91
+Displaying Information:
+Name: Lakshit
+Roll number: 15
+Marks: 91.0
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

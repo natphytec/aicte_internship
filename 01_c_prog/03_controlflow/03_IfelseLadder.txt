@@ -1,0 +1,21 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to check the greatest among four numbers using elseifLadder.
+
+Src File: IfelseLadder.c 
+Out File: IfelseLadder
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./IfelseLadder
+Enter the values of a,b,c,d: 2 3 45 65
+65 is the largest
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

@@ -1,0 +1,29 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to read the file and store the lines into an array.
+
+Src File: fil_arr.c 
+Out File: fil_arr
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./fil_arr
+
+Read the file and store the lines into an array :
+------------------------------------------------------
+ Input the filename to be opened : test.txt
+
+ The content of the file test.txt  are : 
+ 
+ hello guys
+ hows your course going on
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

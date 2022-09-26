@@ -1,0 +1,27 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to check whether the entered num is Even or Odd using goto statement, take number from user.
+
+Src File: goto.c 
+Out File: goto
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./goto
+Enter a number:
+21
+Given num is Odd
+
+Enter a number:
+12
+Given num is Even
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

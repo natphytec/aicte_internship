@@ -1,0 +1,27 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to Calculate Difference Between Two Time Periods.
+
+Src File: str_tim.c 
+Out File: str_tim
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_tim
+
+Enter the start time. 
+Enter hours, minutes and seconds: 9 45 50
+Enter the stop time. 
+Enter hours, minutes and seconds: 6 30 20
+
+Time Difference: 9:45:50 - 6:30:20 = 3:15:30
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

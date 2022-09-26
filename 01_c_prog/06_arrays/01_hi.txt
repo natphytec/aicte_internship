@@ -1,0 +1,26 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program, if user enter "hi" then output print "Hello" else print "not enter hi"
+
+Src File: hi.c 
+Out File: hi
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./hi
+
+Plz enter a str: hi
+Hello
+
+Plz enter a str: how are you
+not enter hi
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

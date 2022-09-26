@@ -1,0 +1,34 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to write multiple lines in a text file.
+
+Src File: fil_wr.c 
+Out File: fil_wr
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./fil_wr
+
+Write multiple lines in a text file and read the file :
+------------------------------------------------------------
+ Input the number of lines to be written : 2
+
+ :: The lines are ::
+hello guys
+hows your course going on
+
+ The content of the file test.txt is  :
+
+hello guys
+hows your course going on
+
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

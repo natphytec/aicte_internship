@@ -1,0 +1,37 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to print one dimensional array after merge two one dimensional array, take size and elements of first and sec array from user.
+
+Src File: arr_merge.c 
+Out File: arr_merge
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./arr_merge
+
+plz enter size of first array:5
+enter first array elements:
+1
+4
+5
+7
+8
+your first array is:1  4  5  7  8  
+plz enter size of second array:4
+enter second array elements:
+1
+4
+5
+8
+your second array is:1  4  5  8  
+after merging 1 and 2 array resultant array is:1  4  5  7  8  1  4  5  8 
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

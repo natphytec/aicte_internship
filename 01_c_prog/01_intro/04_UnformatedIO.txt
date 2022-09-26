@@ -1,0 +1,24 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program using getchar() and putchar() it reads until it encounters a \n character at which it stops
+and displays the characters
+
+Src File: UnformatedIO.c 
+Out File: UnformatedIO
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./UnformatedIO
+Enter Characters to display:
+This is to test UnformatedIO using getchar() and Putchar()
+Entered Characters are as below:
+This is to test UnformatedIO using getchar() and Putchar()
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

@@ -1,0 +1,30 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to calculate sum of individual rows,take num of rows and columns from user and also matrix elements.
+
+Src File: sum_row.c 
+Out File: sum_row
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./sum_row
+
+Please enter rows and columns of matrix:2 3
+	"Enter matrix elements"
+4 7 8
+6 7 3
+	 "Given matrix is"
+4	7	8	
+6	7	3	
+sum of row 1 is: 19
+sum of row 2 is: 16
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

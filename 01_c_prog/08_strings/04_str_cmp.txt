@@ -1,0 +1,26 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to compare two strings,if user enter "danger" then print "entered correct password" else print "wrong password"
+
+Src File: str_cmp.c 
+Out File: str_cmp
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_cmp
+
+plzz Enter your Password :danger
+entered correct password
+
+plzz Enter your Password :welcome
+wrong password
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

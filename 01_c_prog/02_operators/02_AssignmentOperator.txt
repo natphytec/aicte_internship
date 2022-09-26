@@ -1,0 +1,24 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to show usage of assignment operators = , += , -= , *= , /=.
+
+Src File: AssignmentOperator.c 
+Out File: AssignmentOperator
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./AssignmentOperator (Note:take value as 99 and do the operation)
+Value of result = 99
+Value of result = 198
+Value of result = 99
+Value of result = 9801
+Value of result = 99
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

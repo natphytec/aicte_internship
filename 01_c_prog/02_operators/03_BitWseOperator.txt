@@ -1,0 +1,25 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to show usage of bitwise operators & , | ,  ^ , ~ , << , >>
+
+Src File: BitwiseOperator.c 
+Out File: BitwiseOperator
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./BitwiseOperator (Note:take value a as 50 and b as 5)
+Binary OR Operator of a and b is 55
+Binary AND Operator of a and b is 0
+Binary XOR Operator of a and b is 55
+Binary Ones Complement Operator of a is -51
+Binary Left Shift Operator of a is 200
+Binary Right Shift Operator of a is 12
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

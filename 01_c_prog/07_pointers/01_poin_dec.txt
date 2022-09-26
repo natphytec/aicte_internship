@@ -1,0 +1,36 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to show the basic decleration of pointer
+
+Src File: poin_dec.c 
+Out File: poin_dec
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./poin_dec
+
+Pointer : Show the basic declaration of pointer :
+-------------------------------------------------------
+ Here is m=10, n and o are two integer variable and *z is an integer
+
+ z stores the address of m  = 0x7ffc31a6ae74
+
+ *z stores the value of m = 10
+
+ &m is the address of m = 0x7ffc31a6ae74
+
+ &n stores the address of n = 0x7ffc31a6ae78
+
+ &o  stores the address of o = 0x7ffc31a6ae7c
+
+ &z stores the address of z = 0x7ffc31a6ae80
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

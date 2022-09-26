@@ -1,0 +1,30 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to print one dimensional array in ascending order, take size and elements of array from user.
+
+Src File: arr_asc.c 
+Out File: arr_asc
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./arr_asc
+
+Plz enter size of array:5
+enter array elements:
+5
+1
+24
+6
+7
+your array is:5 1 24 6 7
+array in ascending order is:1 5 6 7 24
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

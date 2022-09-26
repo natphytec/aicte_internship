@@ -1,0 +1,23 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to change case of the given string "PHYTEC".
+
+Src File: chg_cas.c 
+Out File: chg_cas
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./chg_cas
+
+PHYTEC
+the changed case is :phytec
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

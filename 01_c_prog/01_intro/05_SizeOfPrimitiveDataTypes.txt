@@ -1,0 +1,26 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to print the size of all primitive datatypes
+
+Src File: SizeOfPrimitiveDataTypes.c 
+Out File: SizeOfPrimitiveDataTypes
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./SizeOfPrimitiveDataTypes
+Size of 'int' is         = 4 bytes
+Size of 'unsigned int'is = 4 bytes
+Size of 'long' is        = 8 bytes
+Size of 'long long' is   = 8 bytes
+Size of 'float' is       = 4 bytes
+Size of 'double' is      = 8 bytes
+Size of 'long double' is = 16 bytes
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

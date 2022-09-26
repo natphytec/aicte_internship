@@ -1,0 +1,28 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to check whether given string is palindrome or not.
+
+Src File: str_palin.c 
+Out File: str_palin
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_palin
+
+Enter your string for palindrome :madam
+Entered string is:madam
+Give string is in palindrome
+
+Enter your string for palindrome :hello
+Entered string is:hello
+Not in palindrome
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

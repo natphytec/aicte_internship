@@ -1,0 +1,29 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to find the maximum number between two numbers using a pointer.
+
+Src File: poin_max.c 
+Out File: poin_max
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./poin_max
+
+Pointer : Find the maximum number between two numbers :
+------------------------------------------------------------
+ Input the first number : 12
+ Input the second  number : 21
+
+
+ 21 is the maximum number.
+
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

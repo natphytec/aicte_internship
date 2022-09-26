@@ -1,0 +1,27 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to print number from 10 to 20 using loop .if number is greater than 15 the loop should break and come out of loop using break statement.
+
+Src File: break.c 
+Out File: break
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./break
+
+num=10
+num=11
+num=12
+num=13
+num=14
+num=15
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

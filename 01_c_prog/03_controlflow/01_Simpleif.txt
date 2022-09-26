@@ -1,0 +1,25 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to check the entered number is greater than 20.
+
+Src File: Simpleif.c 
+Out File: Simpleif
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./Simpleif
+Enter a number:
+21
+The number is Greater than 20.
+
+Enter a number:
+17
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

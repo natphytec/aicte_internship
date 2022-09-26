@@ -1,0 +1,25 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to add two numbers using user defined function sum of no return type and no arguments are passing to this function.Call this user defined sum function from main().
+
+Src File: nr_na.c 
+Out File: nr_na
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./nr_na
+
+enter 2 numbers:
+10
+20
+sum = 30
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

@@ -1,0 +1,31 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to add two distances in the inch-feet system using structure.
+
+Src File: str_dis.c 
+Out File: str_dis
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_dis
+
+Enter 1st distance
+Enter feet: 12
+Enter inch: 7.6
+
+Enter 2nd distance
+Enter feet: 21
+Enter inch: 9.5
+
+Sum of distances = 34'-5.1"
+
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

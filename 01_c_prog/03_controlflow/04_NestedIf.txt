@@ -1,0 +1,22 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to give exact value of a and b using nested if statement.
+initialise a =100, b = 200.
+
+Src File: NestedIf.c 
+Out File: NestedIf
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./NestedIf
+Exact value of a is : 100
+Exact value of b is : 200
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

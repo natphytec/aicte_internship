@@ -1,0 +1,27 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to create and store information in a text file.
+
+Src File: fil_cr.c 
+Out File: fil_cr
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./fil_cr
+
+Create a file (test.txt) and input text :
+----------------------------------------------
+ Input a sentence for the file : Welcome to Rugged Board
+
+ The file test.txt created successfully...!!
+
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

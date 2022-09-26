@@ -1,0 +1,23 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to toggle the case of the given string "RUggEd bOaRD".
+
+Src File: str_togg.c 
+Out File: str_togg
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_togg
+
+given string is : RUggEd bOaRD
+the toggle case is :ruGGeD BoArd
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

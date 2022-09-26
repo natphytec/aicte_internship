@@ -1,0 +1,24 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program using format specifier in printf statement for int ,char,float,double and string
+
+Src File: FormatSpecifier.c 
+Out File: FormatSpecifier
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./FormatSpecifier
+integer is : 123456
+character is : A
+float is : 3.2
+double is : 987.123456
+strinng is : RuggedBoard
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

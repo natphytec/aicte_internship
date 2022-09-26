@@ -1,0 +1,25 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to print value using relational operator 
+
+Src File: RelationalOperator.c 
+Out File: RelationalOperator
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./RelationalOperator (Let j = 6, t = 4)
+6 == 4 is 0 
+6 > 4 is 1 
+6 < 4 is 0 
+6 != 4 is 1 
+6 >= 4 is 1 
+6 <= 4 is 0
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

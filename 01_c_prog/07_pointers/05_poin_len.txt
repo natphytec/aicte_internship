@@ -1,0 +1,26 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to Calculate the length of the string using a pointer.
+
+Src File: poin_len.c 
+Out File: poin_len
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./poin_len
+
+Pointer : Calculate the length of the string :
+---------------------------------------------------
+ Input a string : Rugged Board
+ The length of the given string Rugged Board
+ is : 12 
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

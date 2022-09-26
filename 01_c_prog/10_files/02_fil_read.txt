@@ -1,0 +1,27 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to read an existing file.
+
+Src File: fil_read.c 
+Out File: fil_read
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./fil_read
+
+Read an existing file :
+------------------------------
+ Input the filename to be opened : test.txt
+
+ The content of the file test.txt is  :
+Welcome to Rugged Board
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

@@ -1,0 +1,25 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to Find the Number of Lines in a Text File.
+
+Src File: fil_num.c 
+Out File: fil_num
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./fil_num
+
+Read the file and count the number of lines :
+--------------------------------------------------
+ Input the file name to be opened : test.txt
+ The lines in the file test.txt are : 2
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

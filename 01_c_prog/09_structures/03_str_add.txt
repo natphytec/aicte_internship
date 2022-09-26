@@ -1,0 +1,28 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to Add Two Complex Numbers by Passing Structure to a Function.
+
+Src File: str_add.c 
+Out File: str_add
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_add
+
+For 1st complex number 
+Enter the real and imaginary parts: 4.6 3.4
+
+For 2nd complex number 
+Enter the real and imaginary parts: 9 6.1
+Sum = 13.6 + 9.5i
+
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

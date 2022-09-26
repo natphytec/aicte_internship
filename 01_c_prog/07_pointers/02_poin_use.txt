@@ -1,0 +1,51 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to demonstrate the use of &(address of) and *(value at address) operator.
+
+Src File: poin_use.c 
+Out File: poin_use
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_togg
+
+Pointer : Demonstrate the use of & and * operator :
+--------------------------------------------------------
+ m = 300
+ fx = 300.600006
+ cht = z
+
+ Using & operator :
+-----------------------
+ address of m = 0x7ffd9b733c58
+ address of fx = 0x7ffd9b733c5c
+ address of cht = 0x7ffd9b733c57
+
+ Using & and * operator :
+-----------------------------
+ value at address of m = 300
+ value at address of fx = 300.600006
+ value at address of cht = z
+
+ Using only pointer variable :
+----------------------------------
+ address of m = 0x7ffd9b733c58
+ address of fx = 0x7ffd9b733c5c
+ address of cht = 0x7ffd9b733c57
+
+ Using only pointer operator :
+----------------------------------
+ value at address of m = 300
+ value at address of fx= 300.600006
+ value at address of cht= z
+
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

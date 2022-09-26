@@ -1,0 +1,31 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to print num from 10 to 20 using loop.but it should escape 15 using continue statement.
+
+Src File: continue.c 
+Out File: continue
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./continue
+
+num=10
+num=11
+num=12
+num=13
+num=14
+num=16
+num=17
+num=18
+num=19
+num=20
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

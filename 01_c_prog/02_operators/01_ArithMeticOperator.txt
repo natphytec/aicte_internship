@@ -1,0 +1,26 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to add,subtract,multiply,divide,modulus,increment and decrement the numbers
+
+Src File: ArithMeticOperator.c 
+Out File: ArithMeticOperator
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./ArithMeticOperator
+Addition       : a+b = 25 
+Subtraction    : a-b = -5 
+Multiplication : a*b = 150 
+Division       : a/b = 0 
+Modulo Division: 10 
+Increment the value of a by 1  : 11 
+Decremented the value of b by 1: 14 
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

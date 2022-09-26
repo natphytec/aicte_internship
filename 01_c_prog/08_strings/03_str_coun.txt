@@ -1,0 +1,26 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to count num of vowels,consonents and total alphabets in given string "How are you".
+
+Src File: str_count.c 
+Out File: str_count
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./str_count
+
+The given string is:How are you
+Number of Alphabets in given string is :9
+Number of vowels in given string is :5
+Number of consonents in given string is :4
+
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

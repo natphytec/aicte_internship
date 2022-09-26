@@ -1,0 +1,26 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to check the entered number is greater than 20 or Less than 20.
+
+Src File: Ifelse.c 
+Out File: Ifelse
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./Ifelse
+Enter a number:
+21
+The number is Greater than 20.
+
+Enter a number:
+17
+The number is Lesser than 20.
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

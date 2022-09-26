@@ -1,0 +1,21 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to print value using increment and decrement operator 
+
+Src File: IncDecOperator.c 
+Out File: IncDecOperator
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./IncDecOperator (assign the value of a as 10)
+Incremented Value of a: 11
+Decremented Value of a: 10
+rb-dev$
+-------------------------------
+
+***********************************************************************************/

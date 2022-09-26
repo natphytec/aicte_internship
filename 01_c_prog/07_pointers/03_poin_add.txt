@@ -1,0 +1,27 @@
+/***********************************************************************************
+Problem Statement:
+Write a simple c program to add two numbers using pointers.
+
+Src File: poin_add.c 
+Out File: poin_add
+
+Compilation:
+- Compile the code in VSCode
+- Compile the code in commandline using gcc
+- Compile the code in commandline using Makefile
+
+Example output:
+-------------------------------
+rb-dev$./poin_add
+
+Pointer : Add two numbers :
+--------------------------------
+ Input the first number : 7
+ Input the second  number : 15
+ The sum of the entered numbers is : 22
+
+
+rb-dev$
+-------------------------------
+
+***********************************************************************************/
